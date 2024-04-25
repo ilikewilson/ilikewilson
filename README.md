@@ -1,8 +1,8 @@
-[![MasterHead]()](https:https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BhaG13cXE3aDBvZmE4aDlqOHJwZzRkd2h6c3JnZjRsZTFicjFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif//ilikewilson.io)
+[![MasterHead](https://www.narolainfotech.com/wp-content/themes/narola-infotech/inc/img/light_ai_design_by_gleb.gif)](https://ilikewilson.io)
 <h1 align="center">Hi 👋, I'm Emmanuel Uju</h1>
 <h3 align="center">Data Enthusiast</h3>
 
-(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BhaG13cXE3aDBvZmE4aDlqOHJwZzRkd2h6c3JnZjRsZTFicjFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://www.narolainfotech.com/wp-content/themes/narola-infotech/inc/img/light_ai_design_by_gleb.gif">
 
 - 🌱 I’m currently learning **AI/ML**
 

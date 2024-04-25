@@ -1,8 +1,7 @@
-[![MasterHead](https://www.narolainfotech.com/wp-content/themes/narola-infotech/inc/img/light_ai_design_by_gleb.gif)](https://ilikewilson.io)
+[![MasterHead](https://cdn.dribbble.com/users/29591/screenshots/4690111/ml.gif)](https://ilikewilson.io)
 <h1 align="center">Hi 👋, I'm Emmanuel Uju</h1>
 <h3 align="center">Data Enthusiast</h3>
-
-<img align="right" alt="Coding" width="400" src="https://www.narolainfotech.com/wp-content/themes/narola-infotech/inc/img/light_ai_design_by_gleb.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1175431/screenshots/5703217/03.gif">
 
 - 🌱 I’m currently learning **AI/ML**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Data Analysid**
+- 💬 Ask me about **Meachine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
